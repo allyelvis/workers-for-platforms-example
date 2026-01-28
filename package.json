@@ -11,9 +11,9 @@
     "@typescript-eslint/eslint-plugin": "^8.3.0",
     "@typescript-eslint/parser": "^8.3.0",
     "better-sqlite3": "^7.6.2",
-    "eslint": "^9.15.0",
+    "eslint": "^9.26.0",
     "typescript": "^4.8.3",
-    "wrangler": "^4.7.1"
+    "wrangler": "^3.114.17"
   },
   "scripts": {
     "start": "wrangler dev",
